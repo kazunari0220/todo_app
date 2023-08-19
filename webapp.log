@@ -1,0 +1,14 @@
+2023/08/13 16:08:50 main.go:15: test
+2023/08/13 16:11:04 main.go:15: test
+2023/08/13 16:12:03 main.go:15: test
+2023/08/13 16:12:20 main.go:15: test
+2023/08/13 16:15:12 test
+2023/08/13 07:17:49 main.go:15: test
+2023/08/13 16:18:08.921564 main.go:15: test
+2023/08/13 16:18:45 main.go:15: test
+2023/08/13 16:44:31 base.go:23: sql: unknown driver "sqllite3" (forgotten import?)
+2023/08/13 16:47:44 base.go:23: sql: unknown driver "sqllite3" (forgotten import?)
+2023/08/13 16:49:13 base.go:23: sql: unknown driver "sqllite3" (forgotten import?)
+2023/08/13 16:50:31 base.go:23: sql: unknown driver "sqllite3" (forgotten import?)
+2023/08/20 00:44:04 users.go:33: sql: converting argument $1 type: unsupported type func() uuid.UUID, a func
+2023/08/20 00:44:46 users.go:33: no such table: users
